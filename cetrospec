@@ -1,0 +1,16 @@
+# Math Sequences for Open Object Rexx
+
+package math-sequences
+version 0.1.0
+
+summary Math Sequences library for Open Object Rexx.
+
+description """
+Library that provides a collection of mathematical sequences together with a common object-oriented API for creating, combining and transforming them.
+"""
+
+license Apache-2.0
+author Salvador Parra Camacho
+homepage https://github.com/sparrac/oorexx-math-sequences
+
+require oorexx >= 5.0
