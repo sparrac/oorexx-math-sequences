@@ -1,7 +1,6 @@
 # Math Sequences
 
-[![Language: ooRexx](https://img.shields.io/badge/Language-OpenObjectRexx-red.svg)](https://www.oorexx.org/)
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Language: ooRexx](https://img.shields.io/badge/Language-Open_Object_Rexx-red.svg)](https://www.oorexx.org/)
 
 Object-oriented mathematical sequence library for Open Object Rexx.
 
