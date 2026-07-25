@@ -10,7 +10,7 @@ a1 = naturals~firstTerm
 
 say 'd =' d
 say 'a[1] =' a1
-say 'a[n] =' a1 '+ (n - 1) ·' d``
+say 'a[n] =' a1 '+ (n - 1) ·' d
 
 -- Sum of the first 100 terms
 say 'S[100] =' naturals~sum(100)
